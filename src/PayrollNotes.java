@@ -34,4 +34,3 @@ Commision
 // Should branch into salary
 // needs a getOwed() method
 // testing
-// smh
